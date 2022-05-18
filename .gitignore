@@ -1,5 +1,8 @@
 ### Disco-specfic ignores ###
 
+# Ignore temporary test scripts
+*.sh
+
 # Ignore any images
 init_images/*
 images_out/*
