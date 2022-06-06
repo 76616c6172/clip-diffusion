@@ -1,0 +1,2 @@
+#!/bin/sh
+python disco.py --n_batches 1 --text_prompts '{"0": ["quizical look | friendly person | leica arstation HDR | extremely detailed"]}' --steps 250 --width_height '[1920, 1088]'
