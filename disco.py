@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import os, sys
 
 # Set base project directory to current working directory
